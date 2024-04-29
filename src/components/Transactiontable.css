@@ -1,0 +1,21 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+table{
+    height: auto;
+    width: 100%;
+}
+  
+  th {
+    height: 70px;
+  }
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+    background-color: #f0f0f0;
+}
