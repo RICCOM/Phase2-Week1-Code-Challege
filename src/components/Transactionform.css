@@ -5,7 +5,11 @@
     align-items: center;
     padding: 10px;
 }
-
+.form-row{
+    display: flex;
+    justify-content: center;
+   
+}
 .formGroup {
     display: flex;
     flex-direction: row;
